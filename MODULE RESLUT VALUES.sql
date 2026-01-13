@@ -42,7 +42,6 @@ INSERT INTO module_result VALUES(
   INSERT INTO module_result Values(
   '03/3678', 'MM5002','FAIL');
 
-COMMIT
-
  
  COMMIT;
+
